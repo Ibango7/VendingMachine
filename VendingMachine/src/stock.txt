@@ -1,0 +1,10 @@
+Chocolate bar, 5
+Rice Crispy, 50
+Granola Bars, 50
+Lollipop, 50
+Bread, 12
+Sprite, 50
+Juice, 50
+Coke, 50
+Water, 50
+Biscuit, 55
